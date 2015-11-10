@@ -21,7 +21,7 @@ library
                        Data.Serialize.Aeson
   -- other-modules:       
   other-extensions:    OverloadedStrings
-  build-depends:       base >=4.7 && <4.8
+  build-depends:       base >=4.7 && <4.9
                      , aeson >=0.8 && <0.9
                      , bytestring >=0.10 && <0.11
                      , base64-bytestring >=1.0 && <1.1
